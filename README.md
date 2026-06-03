@@ -208,8 +208,3 @@ Cashiers and sales staff can add items, dynamically calculate totals (Subtotal, 
 Once checked out, administrators logging in are greeted with the Neon Tokyo Control Room displaying real-time metrics, monthly performance SVG graphics, and precise stock decrements.
 
 ![Admin Inventory Room](docs/assets/inventory_stocks.png)
-
-#### 🎬 Full E2E Storyboard Test Animation
-Watch the automated browser test simulating the entire workflow sequence in real time:
-
-![E2E Storyboard flow animation](docs/assets/storyboard_flow.webp)
